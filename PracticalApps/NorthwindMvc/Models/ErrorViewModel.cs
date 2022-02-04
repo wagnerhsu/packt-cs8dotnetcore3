@@ -1,6 +1,4 @@
-using System;
-
-namespace NorthwindMvc.Models
+﻿namespace NorthwindMvc.Models
 {
     public class ErrorViewModel
     {
